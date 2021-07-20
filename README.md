@@ -4,6 +4,6 @@ Web Based Cloud Rendering Application - All Renders are performed using AWS EC2 
 
 The result is then uploaded to a public gallery and emailed to the user.
 
-![Screenshot](Screenshot 1.jpg)
+![Screenshot](Screenshot-1.jpg)
 
-![Screenshot](Screenshot 3.jpg)
+![Screenshot](Screenshot-3.jpg)
