@@ -1,0 +1,62 @@
+.Splash {
+    background-image: url(./splash.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    
+  }
+
+  img {
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+  }
+
+  .Herotext {
+    display: inline-block;
+    margin-left: 20%;
+    color: white;
+    font-weight: bold;
+    font-size: 80px;
+    width: 80rem;
+    margin-top: 45vh;
+    mix-blend-mode: difference; 
+  }
+
+  .topcorner{
+    position:absolute;
+    color: whitesmoke;
+    top:10px;
+    right: 5%;
+ }
+
+  .btn-hero {
+    margin-left: 6rem;
+    margin-top: 2rem;
+  }
+  
+  .CTA{
+    position:absolute;
+    top:15%;
+    left: 5%;
+    width: 20rem;
+  }
+
+  .Splashtext {
+    margin-top: 3rem;
+    margin-left: 6rem;
+    color: black;
+    font-size: 18px;
+    opacity: 0.8;
+    width: 30rem;
+  }
+
+  .upload{
+    color: black;
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
