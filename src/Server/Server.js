@@ -12,8 +12,8 @@ const port = 4500;
 app.use(cors())
 
 AWS.config.update({
-  secretAccessKey: 'r151MPAfmmcCqhcKQydIT9bqfDZj6Y26uX8sAGgu',
-  accessKeyId: 'AKIA5DYSEEJ444F65JW4',
+  secretAccessKey: '',
+  accessKeyId: ''
   region: 'ap-southeast-2'
 });
 
